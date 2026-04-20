@@ -1,0 +1,18 @@
+{
+  "overview": "A polished Hello World app with an animated hero section, navigation, feature highlights, and footer — built as a complete landing experience on the Internet Computer.",
+  "features": [
+    "Animated Hello World hero section",
+    "Fixed navigation with smooth scroll",
+    "Feature highlight cards",
+    "Responsive layout for mobile and desktop",
+    "Styled footer"
+  ],
+  "category": "showcase",
+  "tags": [
+    "hello-world",
+    "landing-page",
+    "showcase",
+    "starter"
+  ],
+  "last_updated": "2026-04-01T15:11:09.755Z"
+}
